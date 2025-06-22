@@ -36,7 +36,7 @@ While linear regression surprisingly outperformed the polynomial model, both gav
 
 ---
 
-## 🔬 Key Learnings
+ ## 🔬 Key Learnings
 
 - **Day of Week** was a strong signal for engagement.
 - Feature scaling improved convergence and accuracy.
@@ -45,5 +45,5 @@ While linear regression surprisingly outperformed the polynomial model, both gav
 
 ---
 
-## 📁 Project Structure
+
 
